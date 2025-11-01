@@ -3,4 +3,6 @@ This repository contains the Solutions to the Lab Exercises given in MA 423 Cour
 
 These programs are written in **Live Script file format (.mlx)**. Please ensure you open them in ***MATLAB Software*** only, as they are not compatible with *GitHub preview* or any other editor such as *VS Code* etc.
 
-⚠️ **Disclaimer**: This repository is provided for **reference purposes only**. 
+⚠️ **Disclaimer**: This repository is provided for **reference purposes only**.
+
+**Lab 8 was skipped in this session.**
